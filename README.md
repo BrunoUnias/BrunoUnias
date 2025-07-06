@@ -1,5 +1,9 @@
 # Olá sou Bruno Unias
 
+ <p>
+   Formado no Centro Universitário Paraíso como bacharel em sistema de infomação, curso que conclui em 2024
+</p>
+
 - 👀 I’m interested in front-end.
 - 📫 How to reach me ...
 
