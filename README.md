@@ -1,9 +1,6 @@
 # Olá sou Bruno Unias
 
-- 👋 Hi, I’m @BrunoUnias
 - 👀 I’m interested in front-end.
-- 🌱 I’m currently react, html, js and css.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoUnias&show_icons=true&theme=dark)](https://github.com/BrunoUnias/github-readme-stats)
